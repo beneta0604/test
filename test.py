@@ -3,7 +3,7 @@
 amount = []
 symbols = []
 mustbeSafedSymbols = ['3', '7', 'K', 'k']
-
+lol
 #сахраняет нужные введённые символы
 symbol = input("введите любой символ")
 while symbol != '0':
